@@ -1,0 +1,11 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  intro: intro.html
+  rmarkdown: rmarkdown.html
+last_built: 2021-06-09T05:19Z
+urls:
+  reference: https://folkehelseinstituttet.github.io/plnr//reference
+  article: https://folkehelseinstituttet.github.io/plnr//articles
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//index.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/Plan.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/create_rmarkdown.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/easy_split.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/expand_list.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/fn_test.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/get_anything.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/is_run_directly.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//reference/set_opts.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//articles/intro.html</loc>
+  </url>
+  <url>
+    <loc>https://folkehelseinstituttet.github.io/plnr//articles/rmarkdown.html</loc>
+  </url>
+</urlset>
